@@ -1,4 +1,5 @@
-# Cognos to Oracle Analytics Migration Project 
+# A Date Engineering project for the purpose of migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analycs Warehouse template
+
 **Scope of this project** \
 ODI Application 12c – Replicate the existing code base for NLATAM and configure as per the requirement. \
 OBIEE Application – Replicate the environment code base and leverage existing subject areas to the maximum extent and as needed customize them. \
