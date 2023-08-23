@@ -1,4 +1,4 @@
-# A Data Migration Cognos to Oracle Project \
+# A Data Migration Cognos to Oracle Project 
 
 This is Date Engineering project for the purpose of migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analycs Warehouse template \
 
