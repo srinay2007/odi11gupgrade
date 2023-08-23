@@ -1,4 +1,4 @@
-# Cognos to Oracle Analytics Migration Project \n
+# Cognos to Oracle Analytics Migration Project 
 **Scope of this project** \n
 ODI Application 12c – Replicate the existing code base for NLATAM and configure as per the requirement. \n
 OBIEE Application – Replicate the environment code base and leverage existing subject areas to the maximum extent and as needed customize them. /n
