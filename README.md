@@ -1,6 +1,6 @@
 # Data Migration Cognos to Oracle Project 
 
-This is Date Analytics project for the purpose of migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analycs Warehouse template \
+This is Data Analytics project for the purpose of migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analycs Warehouse template \
 
 **Scope of this project** \
 ODI Application 12c – Replicate the existing code base for NLATAM and configure as per the requirement. \
