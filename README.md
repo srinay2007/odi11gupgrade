@@ -15,7 +15,7 @@ OBIEE Reports – Build and Deliver a total of 94 Reports as part of the scope o
 
 **Drivers of this project** \
 Decommission Cognos : This project is triggered based on the drive to decommission of Cognos reporting by templating or leveraging the existing NA ODI/OBIEE Solution.  \
-Lower Cost of Operation: Since the data of NLATAM is templating to NA Solution, it will in turn to be a cost effective.\
+Lower Cost of Operation: Since the data of NLATAM is templating to NA Solution, it will in turn to be a cost effective.
 
 
 
