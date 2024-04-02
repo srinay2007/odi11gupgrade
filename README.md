@@ -1,6 +1,6 @@
-# Upgrade and Data Migration Cognos to Oracle Project 
+# Upgrade and Data Migration : Cognos to Oracle Project 
 
-This is Data Analytics project for the purpose of upgrade and migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analycs Warehouse template \
+This is Data Analytics project for the purpose of upgrade and migration of Oil n Gas Data warehouse from Cognos to Oracle Analytics reusing existing Oracle Analytics Warehouse template \
 This Project is split into 2 parts as below.
 
 **Part 1 :** Upgrade of ODI 11g to ODI 12c for NA Data warehouse\
